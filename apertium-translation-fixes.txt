@@ -1,0 +1,15 @@
+How are you [English -> Spanish] (correct- Cómo estás) (apertium- Cómo eres)
+How is today [English -> Spanish] (correct- Cómo está el día) (apertium- Cómo es hoy)
+fuck [English -> Spanish] (correct- Mierda) (apertium- Jode)
+hope this has machine learning [English -> Spanish] (correct - espero que esto tenga aprendizaje automático) (apertium - Esperanza esto tiene aprendizaje de máquina)
+how is your day [English -> Spanish (correct- Cómo va su día) (apertium -> Cómo es vuestro día)
+Apertium needs improvement (but good job anyways cool stuff) [English -> Spanish] (correct- Apertium necesita mejorar) (apertium- Mejora de necesidades del Apertium)
+you should know [English -> Spanish] (correct- usted debe saber) (apertium- Tendrías que saber)
+
+Good Morning!
+Please read yesterday's lesson and we will start from the "do now"
+[English -> Spanish] (correct- ¡Buenos días! Por favor, lea la lección de ayer y comenzaremos desde el "hacer ahora")
+(apertium -> Buenos días! Complacer leído ayer la lección y nosotros empezarán del "hacer ahora")
+
+Here are some translations you can correct in Apertium.
+Hopefully this well help Apertium improve.
